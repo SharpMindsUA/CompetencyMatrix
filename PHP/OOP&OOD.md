@@ -1,11 +1,11 @@
-#Junior Level
+# Junior Level
 Polymorphism, inheritance, encapsulation
 
 Abstract Classes and Interfaces concepts
 
 KISS, YAGNI, DRY principles
 
-#Middle Level
+# Middle Level
 MVC pattern
 
 Loose coupling and high cohesion concepts
@@ -24,14 +24,14 @@ Refactoring techniques
 
 PSR standards as a way to framework agnostic development
 
-#Senior Level
+# Senior Level
 SOLID principles
 
 GRASP principles
 
 Doman Driven Development principles
 
-##Links:
+## Links:
 * [Learning OOP in PHP](https://github.com/marcelgsantos/learning-oop-in-php) 
 
 

@@ -1,4 +1,4 @@
-#Junior Level
+# Junior Level
 Linting with php build-in linter
 
 Code style checks with [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)
@@ -16,7 +16,7 @@ Debugging app with [Kint](https://github.com/kint-php/kint)
 
 Editorconfig as a way to share common settings between diffeerent IDEs and editors
 
-#Middle Level
+# Middle Level
 Code complexity check with [PHPMD](https://github.com/phpmd/phpmd)
 
 Code debug with xDebug
@@ -41,7 +41,7 @@ Loading environment variables from .env file with [PHP dotenv](https://github.co
 
 Experience in setting up a web-server: Apache or Nginx
 
-#Senior Level
+# Senior Level
 Setting up a consistent development environment using Vagrant or Docker. 
 
 Experience with one of the following CI servers: Jenkins/Hudson/Bamboo/TeamCity etc
@@ -65,6 +65,6 @@ Event-driven programming with ReactPHP
 Using Supervisord for php scripts
 
 
-##Links:
+## Links:
 * [Awesome PHP](https://github.com/ziadoz/awesome-php) 
 

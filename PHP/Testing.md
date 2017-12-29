@@ -1,11 +1,11 @@
-#Junior Level
+# Junior Level
 Test types: 
 * Unit testing (test scope: single class)
 * Functional testing (test scope: PHP framework )
 * Acceptance testing (test scope: page in browser)
 
 
-#Middle Level
+# Middle Level
 PHPUnit
 
 Fixture concept
@@ -21,7 +21,7 @@ Mockery as an addition to PHPUnit-based testing
 Test Driven Development concepts
 
 
-#Senior Level
+# Senior Level
 Headless browser testing concepts
 
 Testing via Selenium Web Driver

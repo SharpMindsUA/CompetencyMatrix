@@ -1,4 +1,4 @@
-#Junior Level
+# Junior Level
 
 Creating databases and tables
 
@@ -13,7 +13,7 @@ Updating data with UPDATE statement
 Removing data with DELETE statement
 
 
-#Middle Level
+# Middle Level
 
 Indices, unique indices and primary keys 
 
@@ -30,7 +30,7 @@ Views
 Combining the results of multiple queries: UNION and EXCEPT
 
 
-#Senior Level
+# Senior Level
 Stored procedures vs user-defined functions
 
 Foreign keys and their reference options
