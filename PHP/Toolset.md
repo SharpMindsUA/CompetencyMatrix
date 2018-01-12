@@ -1,3 +1,4 @@
+(If there are no experience with some specific tool, you are welcomed to name some alternatives)
 # Junior Level
 Linting with php build-in linter
 
@@ -6,9 +7,7 @@ Code style checks with [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)
 Dependency management with Composer
 * Ways to autoload dependencies in Composer; 
 * composer.json vs composer.lock
-* Running scripts with Composer ("scripts" section in composer.json)
 
-Generation of universally unique identifiers with [uuid library](https://github.com/ramsey/uuid)
 
 [Carbon](https://github.com/briannesbitt/Carbon): a simple PHP API extension for DateTime 
 
@@ -17,6 +16,8 @@ Debugging app with [Kint](https://github.com/kint-php/kint)
 Editorconfig as a way to share common settings between diffeerent IDEs and editors
 
 # Middle Level
+Generation of universally unique identifiers with [uuid library](https://github.com/ramsey/uuid)
+
 Code complexity check with [PHPMD](https://github.com/phpmd/phpmd)
 
 Code debug with xDebug
@@ -41,6 +42,9 @@ Loading environment variables from .env file with [PHP dotenv](https://github.co
 
 Experience in setting up a web-server: Apache or Nginx
 
+Running scripts with cron
+
+
 # Senior Level
 Setting up a consistent development environment using Vagrant or Docker. 
 
@@ -55,6 +59,8 @@ Experience with one of the following DI Containers: Laravel service container, S
 Experience with one of the following routers: Aura Router, Route (php league) etc
 
 Data Mapper ORM: Doctrine
+
+Memcache
 
 Filesystem abstraction with a Flysystem (The PHP League)
 

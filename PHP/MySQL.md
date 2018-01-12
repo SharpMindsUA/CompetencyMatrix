@@ -12,6 +12,12 @@ Updating data with UPDATE statement
 
 Removing data with DELETE statement
 
+SQL Joins (INNER, LEFT)
+
+ORDER BY
+
+DISTINCT
+
 
 # Middle Level
 
@@ -21,9 +27,9 @@ INSERT/ON DUPLICATE UPDATE
 
 Relationships (One-to-one, One-to-many, Many-to-many)
 
-SQL Joins (INNER, LEFT, RIGHT, FULL)
+SQL Joins (RIGHT, FULL, OUTER)
 
-Aggregations (ORDER BY, GROUP BY, HAVING, SUM, COUNT, AVG)
+Aggregations (GROUP BY, HAVING, SUM, COUNT, AVG)
 
 Views
 
@@ -46,6 +52,10 @@ DB profiling: EXPLAIN, Slow query log
 Partitioning 
 
 Replication, master-slave concepts
+
+Tuning performance of Innodb
+
+Temporary tables
 
 
 

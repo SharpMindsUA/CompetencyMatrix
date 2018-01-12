@@ -3,18 +3,17 @@ Polymorphism, inheritance, encapsulation
 
 Abstract Classes and Interfaces concepts
 
-KISS, YAGNI, DRY principles
 
 # Middle Level
 MVC pattern
+
+KISS, YAGNI, DRY principles
 
 Loose coupling and high cohesion concepts
 
 Dependency injection 
 
 Middleware concept
-
-`Tell Don't Ask` principle
 
 Experience with some `Gang of Four` design patterns
 
@@ -25,6 +24,8 @@ Refactoring techniques
 PSR standards as a way to framework agnostic development
 
 # Senior Level
+`Tell Don't Ask` principle
+
 SOLID principles
 
 GRASP principles

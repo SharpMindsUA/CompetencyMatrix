@@ -34,6 +34,8 @@ Cherry-picking specific commits
 
 Rebasing and interactive rebasing
 
+.gitignore
+
 Stashing
 
 Hooks

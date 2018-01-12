@@ -22,13 +22,9 @@ Arithmetic operators ($a**2 etc)
 
 Assignment operators ($a = 1 vs $a += 1, $a = $b vs $a = &$b etc)
 
-Bitwise Operators
-
 Comparison Operators ($a == $b,  $a === $b etc); Comparing of float values with epsilon technique.
 
 Error Control operator
-
-Execution (backtick) operator
 
 Incrementing/Decrementing Operators (echo $a++ vs echo ++$a)
 
@@ -55,7 +51,7 @@ Null coalescing operator (??)
 
 require vs include
 
-### Functions.
+### Functions
 Global and functional scope.
 
 Type-hinting in functions.
@@ -63,10 +59,6 @@ Type-hinting in functions.
 Return type declaration.
 
 Arguments by reference.
-
-Variable length argument list: func_get_args() and variadics
-
-Static variables in functions
 
 ### Strings
 Single quotes vs Double quotes
@@ -84,11 +76,9 @@ Enumerative and associative
 
 Short array syntax
 
-Iteration of an array:
-* by using reset(), current(),next() 
-* by using foreach
+Iteration of an array by using foreach
 
-Working with arrays as a stack and as a queue
+Working with arrays as a stack and as a queue: array_push(), array_pop(), array_shift(), array_unshift()
 
 Validate (in_array(), array_key_exists() etc)
 
@@ -116,11 +106,21 @@ Inheritance
 
 Class methods and properties visibility. Default visibility.
 
-Working with filesystem with C-style functions (open/create, read, write, and close a file handle, working with folders, controlling file access)
+### Other
+phpdoc (@param, @return, @var etc)
+
+Working with filesystem with C-style functions (open/create, read, write, and close a file handle, working with folders)
 
 # Middle Level
+### Operators
+Execution (backtick) operator
+
+Bitwise Operators
+
 ### Arrays
-Iteration of an array by specific functions with callbacks.
+Iteration of an array:
+* by using reset(), current(),next() 
+* by specific functions with callbacks
 
 Compare arrays (array_diff(),  array_intersect() etc)
 
@@ -133,6 +133,13 @@ Multibyte string functions (mb_*)
 
 Dealing with URL strings: encoding, decoding and parsing
 
+### Functions
+Variable length argument list: func_get_args() and variadics
+
+Static variables in functions
+
+Anonymous functions and Closures concepts
+
 ### OOP
 get_class() and instanceof keyword
 
@@ -142,19 +149,15 @@ $this vs self
 
 static keyword
 
-late static binding
-
 Magic methods (constructors, object as callable, overloading etc)
 
 Interfaces and Abstract Classes
 
 Scope resolution operator
 
-::class keyword
+::class constant
 
 Namespaces
-
-Horizontal inheritance via traits
 
 ### Errors and Exceptions
 Error Reporting
@@ -169,11 +172,6 @@ Throwing and catching Exceptions, set_exception_handler()
 require vs require_once vs __autoload() vs spl_autoload_register()
 
 PSR-0 vs PSR-4
-
-Working with filesystem via streams in PHP
-
-file_get_contents(), file_put_contents()
-
 
 ### Data formats
 JSON (encode/decode,  from/into objects and arrays)
@@ -190,8 +188,6 @@ ctype_* functions, filter_var()
  
 Password security: password_hash() and password_verify()
 
-Symmetric and asymmetric keys concepts
-
 HTTPS concept
 
 Cross-site scripting (XSS)
@@ -199,8 +195,6 @@ Cross-site scripting (XSS)
 Cross-Site Request Forgeries
 
 SQL injection attacks prevention
-
-Ways to defend against session fixation and session hijacking.
 
 Remote code injection and allow_url_fopen directive in php.ini
  
@@ -225,11 +219,20 @@ Oauth
 
 ### Working with Databases
 MySQL Improved Extension (mysqli)
+
 PDO MySQL
+
 PDO prepared statements, fetching query results, transactions with PDO
 
 ### Other
-phpdoc (@param, @return, @var etc)
+
+Working with filesystem via streams in PHP
+
+file_get_contents(), file_put_contents()
+
+FTP functions in PHP
+
+Working with curl
 
 Script delay execution. Script max execution time. Evaluate a string as PHP code. 
 
@@ -237,13 +240,16 @@ Image Processing and Generation
 
 # Senior Level
 ### OOP
+Late static binding
+
+Horizontal inheritance via traits
+
 Anonymous classes
 
 Cloning object
 
 Reflection API
 
-### Anonymous functions and Closures
 Closure class
 
 Using $this in closures
