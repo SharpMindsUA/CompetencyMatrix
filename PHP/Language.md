@@ -235,7 +235,7 @@ Script delay execution. Script max execution time. Evaluate a string as PHP code
 
 Image Processing and Generation
 
-#Senior Level
+# Senior Level
 ### OOP
 Anonymous classes
 
