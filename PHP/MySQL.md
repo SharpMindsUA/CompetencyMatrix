@@ -33,7 +33,7 @@ Aggregations (GROUP BY, HAVING, SUM, COUNT, AVG)
 
 Views
 
-Combining the results of multiple queries: UNION and EXCEPT
+Combining the results of multiple queries: UNION
 
 
 # Senior Level
