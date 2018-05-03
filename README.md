@@ -15,3 +15,10 @@ Currently those profiles are available:
   * [Git](PHP/Git.md)
   * [Toolset](PHP/Toolset.md)
   * [Best practices](PHP/BestPractices.md)
+  
+* WordPress:
+  * [CMS](WordPress/CMS.md)
+  * [PHP](WordPress/PHP.md)
+  * [Front-end](WordPress/Front-end.md)
+  * [MySQL](WordPress/MySQL.md)
+  * [Git](WordPress/Git.md)
