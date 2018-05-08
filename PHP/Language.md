@@ -52,7 +52,7 @@ Null coalescing operator (??)
 require vs include
 
 ### Functions
-Global and functional scope.
+Global and functional scope, 'global' keyword, $GLOBALS
 
 Type-hinting in functions.
 
@@ -97,7 +97,7 @@ $_GET, $_POST, $_REQUEST
 
 $_FILES
 
-Сookies and sessions in php
+Cookies and sessions in php
 
 ### OOP Fundamentals
 Class vs object
@@ -112,6 +112,9 @@ phpdoc (@param, @return, @var etc)
 Working with filesystem with C-style functions (open/create, read, write, and close a file handle, working with folders)
 
 # Middle Level
+
+Difference between a language construct and a built-in function
+
 ### Operators
 Execution (backtick) operator
 
@@ -140,6 +143,8 @@ Static variables in functions
 
 Anonymous functions and Closures concepts
 
+call_user_func(), call_user_func_array()
+
 ### OOP
 get_class() and instanceof keyword
 
@@ -147,7 +152,7 @@ final keyword
 
 $this vs self
 
-static keyword
+static properties and methods
 
 Magic methods (constructors, object as callable, overloading etc)
 
@@ -240,7 +245,7 @@ Image Processing and Generation
 
 # Senior Level
 ### OOP
-Late static binding
+Late static binding (self::$property vs static::$property)
 
 Horizontal inheritance via traits
 
