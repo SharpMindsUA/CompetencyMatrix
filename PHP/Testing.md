@@ -10,7 +10,7 @@ PHPUnit
 
 Fixture concept
 
-Test Doubles: stubs vs mocks
+Test Doubles: dummies, fakes, spies, stubs and mocks
 
 Testing of protected/private methods with Reflection API
 
