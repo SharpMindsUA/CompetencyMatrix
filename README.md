@@ -22,3 +22,14 @@ Currently those profiles are available:
   * [Front-end](WordPress/Front-end.md)
   * [MySQL](WordPress/MySQL.md)
   * [Git](WordPress/Git.md)
+  
+* QA:
+  * [Fundamentals of Testing](QA/Fundamentals of Testing.md)
+  * [Requirements Analysis](QA/Requirements Analysis.md)
+  * [Technical Skills](QA/Technical Skills.md)
+  * [Test Planning](QA/Test Planning.md)
+  * [Testing Documentation](QA/Testing Documentation.md)
+  * [Testing Management](QA/Testing Management.md)
+  * [Testing Process](QA/Testing Process.md)
+
+
