@@ -1,0 +1,20 @@
+## site links
+* [JS intro](http://bonsaiden.github.io/JavaScript-Garden/)
+* [Modern Frontend Developer in 2018](https://codeguida.com/post/1372)
+* [google developers](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+* [jsTheRightWay](http://jstherightway.org/)
+* [codeguida](https://codeguida.com/)
+* [Современный учебник Javascript](https://learn.javascript.ru/)
+
+## youtube
+* [Google Chrome Developers ](https://www.youtube.com/user/ChromeDevelopers/featured)
+* [Fun Fun Function ](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [DevTipsForDesigners](https://www.youtube.com/user/DevTipsForDesigners)
+* [JSConf](https://www.youtube.com/user/jsconfeu)
+* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+* [CodeDojo](https://www.youtube.com/channel/UCY10FZglXJ8RL3xB04VpykQ)
+* [FrontTalks Conference](https://www.youtube.com/channel/UCD1AEzxJfQfd01NChlpVeKA)
+* [FrontendDevConf](https://www.youtube.com/channel/UCBaLKdTGUfiHvxWCV8aMAnQ)
+* [fwdays](https://www.youtube.com/channel/UC3NDbeN0Jq_InNAhiJtvHcQ)
+* [HTML Academy](https://www.youtube.com/channel/UChUxTMjJGo-JDRY8pNTGL2g)
+* [MoscowJS](https://www.youtube.com/channel/UCIo6TsJzLVRGbRZxKzoNeFQ)
