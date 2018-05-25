@@ -33,8 +33,8 @@ Currently those profiles are available:
   * [Testing Process](QA/Testing%20Process.md)
 
 * Frontend
-  * [Browser](Frontend/browser)
-  * [CSS](Frontend/css)
-  * [HTML](Frontend/html)
-  * [JS](Frontend/js)
-  * [Useful links](Frontend/link)
+  * [Browser](Frontend/browser.md)
+  * [CSS](Frontend/css.md)
+  * [HTML](Frontend/html.md)
+  * [JS](Frontend/js.md)
+  * [Useful links](Frontend/link.md)
