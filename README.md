@@ -37,4 +37,4 @@ Currently those profiles are available:
   * [CSS](Frontend/css.md)
   * [HTML](Frontend/html.md)
   * [JS](Frontend/js.md)
-  * [Useful links](Frontend/link.md)
+  * [Useful links](Frontend/links.md)
