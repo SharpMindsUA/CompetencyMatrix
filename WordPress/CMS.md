@@ -55,6 +55,8 @@ Debuggin tools
 
 
 # Middle Level
+`wp_cron` (deferred, repeatable events)
+
 Pluggable functions
 
 Plugins DB management (`dbDelta()`)
