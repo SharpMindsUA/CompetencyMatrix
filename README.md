@@ -38,3 +38,9 @@ Currently those profiles are available:
   * [HTML](Frontend/html.md)
   * [JS](Frontend/js.md)
   * [Useful links](Frontend/links.md)
+
+* UI-Designer
+  * [Junior level](UI-Designer/Junior-Level.md)
+  * [Junior strong level](UI-Designer/Junior-Strong-Level.md)
+  * [Middle level](UI-Designer/Middle-Level.md)
+  * [Senior level](UI-Designer/Senior-Level.md)
