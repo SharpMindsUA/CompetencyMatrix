@@ -1,4 +1,4 @@
-# Junior Level
+# Junior, Junior Pro Level
 ### Master Test Plan (MTP) and Level Test Plan (LTP)
 Purpose
 

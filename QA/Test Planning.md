@@ -1,4 +1,4 @@
-# Middle Level
+# Junior Pro, Middle Level
 ### Test Strategy (Approaches)
 What is test strategy
 

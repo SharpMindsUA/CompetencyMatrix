@@ -47,7 +47,7 @@ Main testing activities and their tasks (in general):
 * Test closure activities
 
 
-# Middle Level
+# Junior Pro, Middle Level
 ### Scrum/Kanban methodologies
 Main differences between Scrum/Kanban
 

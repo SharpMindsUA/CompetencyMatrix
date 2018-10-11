@@ -1,4 +1,4 @@
-# Junior Level
+# Junior, Junior Pro Level
 ### Test Design Techniques
 What is TDT
 
