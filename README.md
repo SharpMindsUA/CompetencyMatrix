@@ -5,6 +5,7 @@ This is a roadmap for software engineers, that can guide and point them into rig
 Also this matrix should help when trying to understand current skillset of the developer.    
 Important to note, that it's not some strict list of items, but rather a set of areas, where we would expect a developer to show some particular level of knowledge.
 
+The matrix is also considered as a guidance for preparing and performing Knowledge evaluations. Since different questions have different level of importance, there are (*) marks next to some of them, showing priority over others. 
 
 Currently those profiles are available:
 * PHP:

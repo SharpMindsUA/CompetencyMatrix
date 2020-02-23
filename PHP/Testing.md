@@ -6,13 +6,13 @@ Test types:
 
 
 # Middle Level
-PHPUnit
+PHPUnit (*)
 
 Code coverage with PHPUnit
 
 Fixture concept
 
-Test Doubles: dummies, fakes, spies, stubs and mocks
+Test Doubles: dummies, fakes, spies, stubs and mocks (*)
 
 Testing of protected/private methods with Reflection API
 
@@ -29,9 +29,9 @@ Mocking filesystem
 
 Headless browser testing concepts
 
-Testing via Selenium Web Driver
+Testing via Selenium Web Driver (*)
 
 Codeception as an example of BDD approach
 
-Load testing: Apache benchmark, Siege
+Load testing: Apache benchmark, Siege (*)
 

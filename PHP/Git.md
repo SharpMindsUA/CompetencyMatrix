@@ -3,17 +3,17 @@ Version control system concept
 
 Distributed vs centralized version control systems
 
-Git concepts: working directory <-> index (stage) <-> repository
+Git concepts: working directory <-> index (stage) <-> repository (*)
 
 Starting and configuring the project with `git init` and `git config`
 
 Information about current status wit `git status`, `git log` and `git diff`
 
-Branches and commits
+Branches and commits (*)
 
 Moving up and down through you repo with `git checkout`
 
-Merging
+Merging (*)
 
 Undoing changes with `git reset` and `git revert`
 
@@ -24,7 +24,7 @@ Working with upstream repositories: `git clone`, `git fetch`, `git pull`, `git p
 # Middle Level
 Experience with one of the following tools: GitHub, BitBucket, GitLab
 
-Concept of pull-request (merge-request)
+Concept of pull-request (merge-request) (*)
 
 Forking a repo
 
@@ -32,13 +32,13 @@ Choosing a suitable approach for collaboration: centralized workflow, feature br
 
 Cherry-picking specific commits
 
-Rebasing and interactive rebasing
+Rebasing and interactive rebasing (*)
 
-.gitignore
+.gitignore (*)
 
 Stashing
 
-Hooks
+Hooks (*)
 
 Tags
 
