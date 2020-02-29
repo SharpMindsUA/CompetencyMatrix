@@ -54,12 +54,11 @@ Git pruning of local and remote branches
 
 --force and --force-with-lease flags
 
-
 ## Links:
 * [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control) 
 * [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)
+* [Git-it](http://jlord.us/git-it/) Interactive git learning course
 * [Learn git branching](https://learngitbranching.js.org/) 
 * [Comparing-workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Git flightrules](https://github.com/k88hudson/git-flight-rules) 
-
 
