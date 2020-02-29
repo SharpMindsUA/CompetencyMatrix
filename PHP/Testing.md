@@ -8,6 +8,8 @@ Test types:
 # Middle Level
 PHPUnit
 
+Code coverage with PHPUnit
+
 Fixture concept
 
 Test Doubles: dummies, fakes, spies, stubs and mocks
@@ -20,8 +22,11 @@ Mockery as an addition to PHPUnit-based testing
 
 Test Driven Development concepts
 
-
 # Senior Level
+Mocking Final classes
+
+Mocking filesystem
+
 Headless browser testing concepts
 
 Testing via Selenium Web Driver

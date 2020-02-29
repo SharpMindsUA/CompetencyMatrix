@@ -35,19 +35,26 @@ Views
 
 Combining the results of multiple queries: UNION
 
+MySQL Storage engines. 
+* MyISAM, InnoDB
 
 # Senior Level
 Stored procedures vs user-defined functions
 
-Foreign keys and their reference options
+Foreign keys and their reference options, cascade actions.
 
-Triggers
+Triggers. Pros and cons comparing to recalculating on the application side.
+
+MySQL alternative storage engines. 
+* Memory, Archive, Blackhole, CSV, etc
 
 Locks: lock on read, on write
 
 Transactions
 
 DB profiling: EXPLAIN, Slow query log 
+
+[Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
 
 Partitioning 
 
@@ -57,8 +64,5 @@ Tuning performance of Innodb
 
 Temporary tables
 
-
-
-
-
-
+# Links
+[Locks and transactions in MYSQL(In russian)](https://zinvapel.github.io/prog/database/2018/10/04/mysqlc-transaction/)
