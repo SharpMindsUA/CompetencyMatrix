@@ -13,7 +13,10 @@ Type Casting (with casting operators and functions). Detecting Types.
 
 Variables (naming, case-sensitivity). Variable variables.
 
-Constants. Possible ways to define. Possible values that they contain. Magic constants.
+Constants:
+* Possible ways to define. 
+* Possible types that they contain. 
+* Magic constants.
 
 ### Operators
 Operator precedence.
@@ -49,23 +52,30 @@ Ternary Operators
 
 Null coalescing operator (??)
 
+Spaceship operator (<=>)
+
 require vs include
 
 ### Functions
 Global and functional scope, 'global' keyword, $GLOBALS
 
-Type-hinting in functions.
+Typed parameters and return type declaration.
 
-Return type declaration.
+Nullable and void type declarations.
+
+Argument default value
 
 Arguments by reference.
+
+Arguments unpacking. (function test(...$args){})
 
 ### Strings
 Single quotes vs Double quotes
 
 Heredoc and Nowdoc Syntax
+* Indentation changes in PHP 7.3
 
-Strings as Arrays
+Strings as Arrays. Positive and negative offsets.
 
 Search & replace
  
@@ -83,6 +93,10 @@ Working with arrays as a stack and as a queue: array_push(), array_pop(), array_
 Validate (in_array(), array_key_exists() etc)
 
 Sort and shuffle arrays
+
+Spread Operator in Array Expression
+
+Unpacking arrays to variables using list(). By value and by reference difference. 
 
 ### Web
 HTTP request: HTTP method, URI, headers and request body.
@@ -106,8 +120,12 @@ Inheritance
 
 Class methods and properties visibility. Default visibility.
 
+Accessing protected/private class properties
+
+Typed properties
+
 ### Other
-phpdoc (@param, @return, @var etc)
+phpdoc (@param, @return, @var etc). Differences from type hinting 
 
 Working with filesystem with C-style functions (open/create, read, write, and close a file handle, working with folders)
 
@@ -130,7 +148,9 @@ Compare arrays (array_diff(),  array_intersect() etc)
 Array merging (array_merge vs '+')
 
 ### Strings
-Regular expressions (preg_match(), named matches etc)
+Regular expressions 
+* preg_match(), flags, named matches 
+* preg_replace*() functions. Replace using matches, callbacks 
 
 Multibyte string functions (mb_*)
 
@@ -141,7 +161,7 @@ Variable length argument list: func_get_args() and variadics
 
 Static variables in functions
 
-Anonymous functions and Closures concepts
+Anonymous functions and Closures concepts. Arrow functions
 
 call_user_func(), call_user_func_array()
 
@@ -154,7 +174,12 @@ $this vs self
 
 static properties and methods
 
-Magic methods (constructors, object as callable, overloading etc)
+Magic methods 
+* constructors, 
+* overloading methods and properties
+* object as callable
+* serialization and json encoding control
+     __serialize/__unserialize. vs __sleep/__wakeup
 
 Interfaces and Abstract Classes
 
@@ -162,21 +187,25 @@ Scope resolution operator
 
 ::class constant
 
-Namespaces
+Namespaces. Use, group use, aliases
 
 ### Errors and Exceptions
 Error Reporting
 
 Handling Errors, set_error_handler()
    
-Exception  class, extending Exception class. Throwable interface
+Exception class, extending Exception class. Throwable interface
 
-Throwing and catching Exceptions, set_exception_handler()  
+Throwing and catching Exceptions, set_exception_handler(), Multi-Catch Exception Handling
+
+Expectations
 
 ### Autoloading
-require vs require_once vs __autoload() vs spl_autoload_register()
+require vs require_once
 
-PSR-0 vs PSR-4
+__autoload()(deprecated) vs spl_autoload_register()
+
+[PSR-0](https://www.php-fig.org/psr/psr-0/) (Deprecated) vs [PSR-4](https://www.php-fig.org/psr/psr-4/)
 
 ### Data formats
 JSON (encode/decode,  from/into objects and arrays)
@@ -263,7 +292,7 @@ Specifying a class with bindTo()
 
 Predefined Interfaces:  ArrayAccess, Serializable, Traversable, Iterator and IteratorAggregate
 
-Generators
+Generators. yield, yield from, gerReturn()
 
 ### SPL 
 Data structures (SplStack, SplFixedArray etc)
@@ -282,4 +311,17 @@ Stream filters.  I/O streams: 'php://stdin' and 'php://stdout'
 ### Other
 Run PHP process in the background
 
+Using queues for asynchronous and synchronous delegating of operations.
+
+Foreign function interface (FFI)
+
+# Performance
 Code profiling and optimization
+* possible bottlenecks
+* ways of determining the problem
+
+PHP Preloading
+
+OpCache
+
+[Some tips of Improving PHP Performance] (https://www.keycdn.com/blog/php-performance)
