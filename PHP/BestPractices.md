@@ -3,13 +3,19 @@
 # Junior Level
 [PSR-1 basic coding standard](http://www.php-fig.org/psr/psr-1/)
 
-[PSR-2 coding style guide](http://www.php-fig.org/psr/psr-2/)
+[~~PSR-2 coding style guide~~](http://www.php-fig.org/psr/psr-2/) 
+
+[PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
 
 [PHP - the right way](http://www.phptherightway.com/)
  
 [Clean Code, adapted for PHP](https://github.com/jupeter/clean-code-php)
 
 # Middle Level
+Pros and cons of getting configs from .env files and from code. 
+
+[The Twelve Factors App](https://12factor.net/)
+
 [Object Calisthenics by William Durand](http://williamdurand.fr/2013/06/03/object-calisthenics/)
 
 [Best practices from TheCodingMachine](http://bestpractices.thecodingmachine.com/)
