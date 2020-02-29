@@ -25,7 +25,7 @@ Arithmetic operators ($a*2 etc)
 
 Assignment operators ($a = 1 vs $a += 1, $a = $b vs $a = &$b etc) (*) 
 
-Comparison Operators ($a == $b,  $a === $b etc); Comparing of float values with epsilon technique.
+Comparison Operators ($a == $b,  $a === $b etc); Comparing of float values with epsilon technique. (*) 
 
 Error Control operator
 
@@ -77,7 +77,7 @@ Heredoc and Nowdoc Syntax
 
 Strings as Arrays. Positive and negative offsets.
 
-Search & replace
+Search & replace (*)
  
 Using printf(), sprintf() for formatting
 
@@ -118,7 +118,7 @@ Class vs object
 
 Inheritance
 
-Class methods and properties visibility. Default visibility.
+Class methods and properties visibility. Default visibility. (*)
 
 Accessing protected/private class properties
 
@@ -174,7 +174,7 @@ final keyword
 
 $this vs self (*)
 
-static properties and methods
+static properties and methods (*)
 
 Magic methods (*)
 * constructors, 
@@ -198,7 +198,7 @@ Handling Errors, set_error_handler()
    
 Exception  class, extending Exception class. Throwable interface (*)
 
-Throwing and catching Exceptions, set_exception_handler(), Multi-Catch Exception Handling
+Throwing and catching Exceptions, set_exception_handler(), Multi-Catch Exception Handling (*)
 
 Expectations
 
@@ -210,7 +210,7 @@ __autoload()(deprecated) vs spl_autoload_register()
 [PSR-0](https://www.php-fig.org/psr/psr-0/) (Deprecated) vs [PSR-4](https://www.php-fig.org/psr/psr-4/) (*)
 
 ### Data formats
-JSON (encode/decode,  from/into objects and arrays)
+JSON (encode/decode, from/into objects and arrays) (*)
 
 Dates and Times : DateTime and DateTimeImmutable classes
 
@@ -238,7 +238,7 @@ Remote code injection and allow_url_fopen directive in php.ini
 ob_start(), ob_get_contents(), ob_end_clean(); (*)
 
 ### PHP in console
-Running php code in console
+Running php code in console (*)
 
 Running php built-in server
 
@@ -313,7 +313,7 @@ Stream filters.  I/O streams: 'php://stdin' and 'php://stdout'
 ### Other
 Run PHP process in the background (*)
 
-Using queues for asynchronous and synchronous delegating of operations.
+Using queues for asynchronous and synchronous delegating of operations. (*)
 
 Foreign function interface (FFI)
 
