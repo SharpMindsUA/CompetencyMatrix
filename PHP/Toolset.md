@@ -22,10 +22,6 @@ Generation of universally unique identifiers with [uuid library](https://github.
 
 Experience with one of the following template engines: Twig, Plates, Aura View etc
 
-Generation of universally unique identifiers with [uuid library](https://github.com/ramsey/uuid)
-
-Experience with one of the following template engines: Twig, Plates, Aura View etc
-
 # Middle Level
 Code complexity check with [PHPMD](https://github.com/phpmd/phpmd)
 

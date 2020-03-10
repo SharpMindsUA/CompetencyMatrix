@@ -11,7 +11,9 @@ Data types: 4 scalar types, 4 compound types, 2 special types. Pseudo-types. (*)
 
 Type Casting (with casting operators and functions). Detecting Types. (*)  
 
-Variables (naming, case-sensitivity). Variable variables.
+Variables
+    * naming, case-sensitivity
+    * Variable variables.
 
 Constants:
 * Possible ways to define. 
@@ -21,7 +23,7 @@ Constants:
 ### Operators
 Operator precedence.
 
-Arithmetic operators ($a*2 etc)
+Arithmetic operators ($a**2 etc)
 
 Assignment operators ($a = 1 vs $a += 1, $a = $b vs $a = &$b etc) (*) 
 
@@ -46,13 +48,11 @@ if, while, for, foreach, switch and their alternative syntax.
 
 'Fall through' in switch statement
 
-continue and break statements
+continue and break statements (*)
 
 Ternary Operators (*) 
 
 Null coalescing operator (??) (*) 
-
-Spaceship operator (<=>)
 
 Spaceship operator (<=>)
 
@@ -68,8 +68,6 @@ Nullable and void type declarations.
 Argument default value
 
 Arguments by reference. (*) 
-
-Arguments unpacking. (function test(...$args){})
 
 Arguments unpacking. (function test(...$args){})
 
@@ -100,10 +98,6 @@ Sort and shuffle arrays (*)
 
 Spread Operator in Array Expression
 
-Unpacking arrays to variables using list(). By value and by reference difference. 
-
-Spread Operator in Array Expression
-
 Unpacking arrays to variables using list(). Difference between unpacking by value and by reference. 
 
 ### Web
@@ -115,22 +109,18 @@ Web-Form submit
 
 Data format inside request body
 
-$_GET, $_POST, $_REQUEST
+$_GET, $_POST, $_REQUEST (*)
 
 $_FILES
 
 Cookies and sessions in php (*)
 
 ### OOP Fundamentals
-Class vs object
+Class vs object (*)
 
 Inheritance
 
 Class methods and properties visibility. Default visibility. (*)
-
-Accessing protected/private class properties
-
-Typed properties
 
 Accessing protected/private class properties
 
@@ -323,22 +313,11 @@ stream_socket_server() and stream_socket_client()
 Stream filters.  I/O streams: 'php://stdin' and 'php://stdout'
 
 ### Other
-Run PHP process in the background (*)
-
-Using queues for asynchronous and synchronous delegating of operations. (*)
-
-Foreign function interface (FFI)
-
-# Performance
-Code profiling and optimization (*)
-* possible bottlenecks
-* ways of determining the problem
-
 Using queues for asynchronous and synchronous delegating of operations.
 
 Foreign function interface (FFI)
 
-# Performance
+### Performance
 Code profiling and optimization (*)
 * possible bottlenecks
 * ways of determining the problem

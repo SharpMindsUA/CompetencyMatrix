@@ -15,7 +15,7 @@ Moving up and down through you repo with `git checkout`
 
 Merging (*)
 
-Undoing changes with `git reset` and `git revert`
+Undoing changes with `git reset` and `git revert` (*)
 
 Working with upstream repositories: `git clone`, `git fetch`, `git pull`, `git push`
 
