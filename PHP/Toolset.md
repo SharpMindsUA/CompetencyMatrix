@@ -33,9 +33,9 @@ Code profiling with [XHProf](https://tideways.com/profiler/xhprof-for-php7)
 
 Fake data generation with [Faker](https://github.com/fzaninotto/Faker)
 
-PSR-7 HTTP message interfaces: [Zend Diactoros](https://github.com/zendframework/zend-diactoros)
+PSR-7 HTTP message interfaces: [Laminas Diactoros](https://github.com/laminas/laminas-diactoros)
 
-PSR-15: HTTP Server Request Handlers
+PSR-15: HTTP Server Request Handlers [PSR-15 middlewares](https://github.com/middlewares/psr15-middlewares)
 
 Experience with one of the following DB migration tools: [Phinx](https://github.com/cakephp/phinx), Doctrine Migrations etc
 
@@ -48,7 +48,7 @@ Logging with [Monolog](https://github.com/Seldaek/monolog)
 Loading environment variables from .env file with [PHP dotenv](https://github.com/vlucas/phpdotenv)
 
 Experience in setting up a web-server: Apache or Nginx
-* Apache + mpd_php vs Nginx + php-fpm
+* Apache + mod_php vs Nginx + php-fpm
 
 Running scripts with cron
 
@@ -69,8 +69,7 @@ Setting up a consistent development environment using
 * Vagrant
 * Docker:
     * Dockerfiles, pure and based on existing images
-    * docker-compose to join separate images into encapsulated network.
-    * optimizing images
+    * docker-compose to join separate images into encapsulated network
 
 Experience with one of the following CI servers: Jenkins/Hudson/Bamboo/TeamCity etc
 
@@ -90,7 +89,7 @@ Event-driven programming with ReactPHP
 
 Using Supervisord for php scripts
 
-Aggregation profiling using [Live Profiler(lifeprof)](https://github.com/badoo/liveprof), [New Relic](https://newrelic.com/), [Pinba](http://pinba.org/)
+Aggregation profiling using [Live Profiler(lifeprof)](https://github.com/badoo/liveprof), [New Relic](https://newrelic.com/), [Pinba 2](https://github.com/badoo/pinba2)
 
 Stats aggregation using StatsD, Graphite, Datadog, Grafana, etc
 
