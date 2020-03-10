@@ -54,6 +54,8 @@ Null coalescing operator (??) (*)
 
 Spaceship operator (<=>)
 
+Spaceship operator (<=>)
+
 require vs include
 
 ### Functions
@@ -66,6 +68,8 @@ Nullable and void type declarations.
 Argument default value
 
 Arguments by reference. (*) 
+
+Arguments unpacking. (function test(...$args){})
 
 Arguments unpacking. (function test(...$args){})
 
@@ -98,6 +102,10 @@ Spread Operator in Array Expression
 
 Unpacking arrays to variables using list(). By value and by reference difference. 
 
+Spread Operator in Array Expression
+
+Unpacking arrays to variables using list(). Difference between unpacking by value and by reference. 
+
 ### Web
 HTTP request: HTTP method, URI, headers and request body. (*)
 
@@ -119,6 +127,10 @@ Class vs object
 Inheritance
 
 Class methods and properties visibility. Default visibility. (*)
+
+Accessing protected/private class properties
+
+Typed properties
 
 Accessing protected/private class properties
 
@@ -294,7 +306,7 @@ Specifying a class with bindTo()
 
 Predefined Interfaces:  ArrayAccess, Serializable, Traversable, Iterator and IteratorAggregate (*)
 
-Generators. yield, yield from, gerReturn()
+Generators. yield, yield from, Generator::gerReturn()
 
 ### SPL 
 Data structures (SplStack, SplFixedArray etc)
@@ -314,6 +326,15 @@ Stream filters.  I/O streams: 'php://stdin' and 'php://stdout'
 Run PHP process in the background (*)
 
 Using queues for asynchronous and synchronous delegating of operations. (*)
+
+Foreign function interface (FFI)
+
+# Performance
+Code profiling and optimization (*)
+* possible bottlenecks
+* ways of determining the problem
+
+Using queues for asynchronous and synchronous delegating of operations.
 
 Foreign function interface (FFI)
 

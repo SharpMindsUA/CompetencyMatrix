@@ -29,8 +29,6 @@ PSR standards as a way to framework agnostic development (*)
 * [PSR-18](https://www.php-fig.org/psr/psr-18/) HTTP Client
 * [PSR-14](https://www.php-fig.org/psr/psr-14/) Event Dispatcher
 
-SOLID principles (*)
-
 # Senior Level
 `Tell Don't Ask` principle
 

@@ -58,6 +58,8 @@ DB profiling: EXPLAIN, Slow query log(*)
 
 [Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
 
+[Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
+
 Partitioning 
 
 Replication, master-slave concepts (*)
@@ -67,4 +69,5 @@ Tuning performance of Innodb
 Temporary tables
 
 # Links
+[InnoDB Locking and Transaction Model](https://dev.mysql.com/doc/refman/5.7/en/innodb-locking-transaction-model.html)
 [Locks and transactions in MYSQL(In russian)](https://zinvapel.github.io/prog/database/2018/10/04/mysqlc-transaction/)

@@ -10,6 +10,8 @@ PHPUnit (*)
 
 Code coverage with PHPUnit
 
+Code coverage with PHPUnit
+
 Fixture concept
 
 Test Doubles: dummies, fakes, spies, stubs and mocks (*)
