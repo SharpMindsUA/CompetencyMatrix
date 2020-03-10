@@ -2,17 +2,17 @@
 
 Creating databases and tables
 
-Data Types; Char vs varchar, storing date in DB
+Data Types; Char vs varchar, storing date in DB (*)
 
-Retrieving data with SELECT statement
+Retrieving data with SELECT statement (*)
 
-Inserting data with INSERT statement
+Inserting data with INSERT statement (*)
 
-Updating data with UPDATE statement
+Updating data with UPDATE statement (*)
 
-Removing data with DELETE statement
+Removing data with DELETE statement (*)
 
-SQL Joins (INNER, LEFT)
+SQL Joins (INNER, LEFT) (*)
 
 ORDER BY
 
@@ -21,15 +21,15 @@ DISTINCT
 
 # Middle Level
 
-Indices, unique indices and primary keys 
+Indices, unique indices and primary keys (*) 
 
 INSERT/ON DUPLICATE UPDATE
 
-Relationships (One-to-one, One-to-many, Many-to-many)
+Relationships (One-to-one, One-to-many, Many-to-many) (*)
 
 SQL Joins (RIGHT, FULL, OUTER)
 
-Aggregations (GROUP BY, HAVING, SUM, COUNT, AVG)
+Aggregations (GROUP BY, HAVING, SUM, COUNT, AVG) (*)
 
 Views
 
@@ -43,22 +43,26 @@ Stored procedures vs user-defined functions
 
 Foreign keys and their reference options, cascade actions.
 
-Triggers. Pros and cons comparing to recalculating on the application side.
+Triggers. (*)
+* Meaning an usage 
+* Pros and cons comparing to recalculating on the application side.
 
 MySQL alternative storage engines. 
 * Memory, Archive, Blackhole, CSV, etc
 
-Locks: lock on read, on write
+Locks: lock on read, on write (*)
 
-Transactions
+Transactions (*)
 
-DB profiling: EXPLAIN, Slow query log 
+DB profiling: EXPLAIN, Slow query log(*) 
+
+[Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
 
 [Optimization](https://dev.mysql.com/doc/refman/8.0/en/optimization.html)
 
 Partitioning 
 
-Replication, master-slave concepts
+Replication, master-slave concepts (*)
 
 Tuning performance of Innodb
 
