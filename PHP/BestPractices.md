@@ -3,9 +3,9 @@
 # Junior Level
 [PSR-1 basic coding standard](http://www.php-fig.org/psr/psr-1/)
 
-[~~PSR-2 coding style guide~~](http://www.php-fig.org/psr/psr-2/) 
+[PSR-2 coding style guide](http://www.php-fig.org/psr/psr-2/) (deprecated) 
 
-[PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
+[PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/) (recommended)
 
 [PHP - the right way](http://www.phptherightway.com/)
  
