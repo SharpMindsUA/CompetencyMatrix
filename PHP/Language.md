@@ -12,7 +12,7 @@ Data types: 4 scalar types, 4 compound types, 2 special types. Pseudo-types. (*)
 Type Casting (with casting operators and functions). Detecting Types. (*)  
 
 Variables
-    * naming, case-sensitivity
+    * naming, case-sensitivity (*)
     * Variable variables.
 
 Constants:
@@ -33,7 +33,7 @@ Error Control operator
 
 Incrementing/Decrementing Operators (echo $a++ vs echo ++$a)
 
-Logical Operators ($a && $b, $a || $b, !$a etc.). Application to types. (*) 
+Logical Operators ($a && $b, $a || $b, !$a etc.). Limitations of using with different types of arguments. (*) 
 
 String operators (concatenation and concatenating assignment)
 
