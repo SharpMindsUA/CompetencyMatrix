@@ -35,18 +35,6 @@ What is CSS. CSS Syntax Rules
 
 What is JavaScript. JS Syntax Rules
 
-
-### Selenium IDE
-What is Selenium IDE
-
-Creating Selenium IDE script
-
-Executing Selenium IDE script
-
-Saving Selenium IDE script
-
-Main Selenium IDE commands
-
 ### Automated testing
 What is Automated testing
 
@@ -83,11 +71,6 @@ Headers
 Body
 
 Creating collections and requests
-
-### Microsoft Visual Studio
-What is Microsoft Visual Studio
-
-ReSharper in VS
 
 ### Bug tracking systems 
 What is BTS
@@ -130,11 +113,6 @@ CSS colors, fonts, links, borders
 
 JS statements, variables, operators, data types
 
-### Selenium IDE
-Overview of most important Selenium IDE commands
-
-Debug in Selenium IDE
-
 ### Automated testing
 Automation tools
 
@@ -151,9 +129,6 @@ XML Schema
 
 ### REST API Testing (Postman)
 API automated tests
-
-### Microsoft Visual Studio
-Creating automated tests in VS
 
 ### Bug tracking systems 
 BTS best practices
